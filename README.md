@@ -25,7 +25,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ![Recipe Page Screenshot Mobile](./assets/images/mobile/part-one-mobile.jpeg)
 ![Recipe Page Screenshot Mobile](./assets/images/mobile/part-two-mobile.jpeg)
 ![Recipe Page Screenshot Mobile](./assets/images/mobile/part-three-mobile.jpeg)
-![Recipe Page Screenshot Mobile](./assets/images/mobile/part-four-mobile.jpeg)
 
 ### Links
 
