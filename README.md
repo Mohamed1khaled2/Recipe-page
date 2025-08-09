@@ -16,11 +16,16 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview
 
-### Screenshot
+### Screenshot Desktop
 
 ![Recipe Page Screenshot](./assets/images/part-one-desktop.jpeg)
 ![Recipe Page Screenshot](./assets/images/part-two-desktop.jpeg)
-![Recipe Page Screenshot Mobile](./assets/images/part-two-desktop.jpeg)
+
+### Screenshot Mobile
+![Recipe Page Screenshot Mobile](./assets/images/mobile/part-one-mobile.jpeg)
+![Recipe Page Screenshot Mobile](./assets/images/mobile/part-two-mobile.jpeg)
+![Recipe Page Screenshot Mobile](./assets/images/mobile/part-three-mobile.jpeg)
+![Recipe Page Screenshot Mobile](./assets/images/mobile/part-four-mobile.jpeg)
 
 ### Links
 
