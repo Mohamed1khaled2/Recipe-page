@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+* {
+    box-sizing: content-box;
+    margin: 0;
+
+}
+
+body {
+	background-color:hsl(30, 18%, 87%);
+    padding: 50px 0;
+}
+
+
+ol li::marker {
+	font-weight: bold;       
+}
+
+ol, ul {
+	padding-left: 0;
+	list-style-position: outside;
+	margin-top: 0.5em;
+	margin-left: 1.5em;
+
+}
+
+li {
+	margin-bottom: 0.625rem;
+	color: hsl(30, 10%, 34%)	;
+	line-height: 1.3;
+	padding-left: 0.625rem; 
+    font-family: "Outfit", sans-serif;
+
+}
+
+
+hr {
+    width: 95%;
+    margin: 0.625rem 0px;
+	border: 1px solid #e2e2e2   ;
+}
+
+
+
+.center-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0.625rem;
+}
+
+main {
+    background-color: hsl(0, 0%, 100%);
+    min-width: 350px;
+    max-width: 605px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding: 1.5rem;
+    text-align: left;
+    border-radius: 1rem;
+    width: 90%;
+
+}
+
+main header  {
+    height: 323px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+header img {
+    height: 85%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 1rem;
+
+}
+
+header h1 {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+  padding: 0.5em 0px;  
+}
+
+.caption-small-font {
+    padding: 1.5rem 0px;
+	font-family: "Outfit", sans-serif;
+    color: hsl(30, 10%, 34%);
+	font-size: 0.9rem;
+}
+
+article {
+    width: 100%;
+    color: black;
+}
+
+.inside-padding{
+    padding: 1.5em;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 0.6rem;
+    margin-bottom: 1rem;
+}
+
+.inside-padding h3 {
+    color: hsl(332, 51%, 32%);
+	font-family: "Outfit", sans-serif;
+	padding-bottom: 0.625rem;
+}
+
+.section-recipe, .section-steps,.section-nut{
+    width: 100%;
+    margin-bottom: 0.625rem;
+}
+
+
+
+.bold-font {
+    color:hsl(24, 5%, 18%) ;
+    font-weight: bold;
+}
+
+
+.section-title {
+    font-family: "Young Serif", serif;
+    color: hsl(14, 45%, 36%);
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    padding-bottom: 0.625em;
+}
+
+
+.section-steps ol li::marker {
+	color:hsl(14, 45%, 36%) ;
+}
+
+table {
+	border-collapse: collapse; 
+	width: 100%;
+	color: hsl(30, 10%, 34%);
+	font-family: "Outfit", sans-serif;
+}
+
+
+table tr {
+	border-bottom: 1px solid #ccc; 
+}
+
+
+table tr:last-child {
+  	border-bottom: none;
+}
+
+table td {
+ 	padding: 8px 12px; 
+}
+
+
+.left-text {
+	text-align: left;
+	margin-bottom: 1rem;
+}
+
+.value-color {
+	color: hsl(14, 45%, 36%);
+	font-weight: bold;
+}
+
+
+
+@media (min-width: 280px) and (max-width: 720px) {
+  main {
+    min-width: 0;
+    max-width: 650px;
+    width: 90%;
+    padding: 1rem;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+    padding-bottom: 0;
+    }
+
+    .caption-small-font {
+        padding-top: 0.5em;
+    
+    }
+   
+}
+
+
+
