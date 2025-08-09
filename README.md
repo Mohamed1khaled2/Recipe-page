@@ -28,8 +28,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://github.com/yourusername/recipe-page-main](https://github.com/yourusername/recipe-page-main)
-- Live Site URL: [https://yourusername.github.io/recipe-page-main/](https://yourusername.github.io/recipe-page-main/)
+- Solution URL: [https://github.com/Mohamed1khaled2/Recipe-page]
+- Live Site URL: [https://mohamed1khaled2.github.io/Recipe-page/]
 
 ## My process
 
@@ -38,7 +38,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
@@ -66,5 +65,6 @@ I plan to continue learning about accessibility and advanced CSS techniques, suc
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Mohamed1khaled2](https://www.frontendmentor.io/profile/Mohamed1khaled2)
+- Twitter - [@mada_555](https://x.com/mada_555)
+- Social Links - [@ContactMe](https://mohamed1khaled2.github.io/Social-links-profile/)
